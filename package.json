@@ -1,0 +1,28 @@
+{
+  "name": "micropos-web",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "lucide-react": "0.344.0",
+    "dexie": "3.2.4",
+    "dexie-react-hooks": "1.1.7",
+    "zustand": "4.5.2",
+    "@supabase/supabase-js": "2.39.8",
+    "html5-qrcode": "2.3.8",
+    "read-excel-file": "5.7.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "@vitejs/plugin-react": "^5.0.0",
+    "typescript": "~5.8.2",
+    "vite": "^6.2.0"
+  }
+}

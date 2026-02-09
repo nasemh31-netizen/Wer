@@ -1,0 +1,7 @@
+{
+  "name": "MicroPOS Web",
+  "description": "A responsive web-based Point of Sale system featuring sales, inventory management, and reporting dashboard.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
